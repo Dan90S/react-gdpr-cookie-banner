@@ -8,7 +8,9 @@ export default (props = {}) => {
     className = '',
     message = 'No text',
     policyLink = '/#',
+    impressumLink = '/#',
     privacyPolicyLinkText = 'Privacy Policy',
+    impressumLinkText = 'Data Protection',
     necessaryOptionText = 'Necessary',
     preferencesOptionText = 'Preferences',
     statisticsOptionText = 'Statistics',
@@ -96,6 +98,7 @@ export default (props = {}) => {
         </div>
 
         <a href={policyLink} className="react-cookie-law-policy" style={policyStyle}>{privacyPolicyLinkText}</a>
+        <a href={impressumLink} className="react-cookie-law-policy" style={policyStyle}>{impressumLinkText}</a>
 
         <div className="react-cookie-law-button-wrapper" style={buttonWrapperStyle}>
           {
