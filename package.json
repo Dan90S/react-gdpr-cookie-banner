@@ -1,5 +1,5 @@
 {
-  "name": "@keep/react-gdpr-cookie-banner",
+  "name": "@ds/react-gdpr-cookie-banner",
   "version": "0.4.0",
   "description": "GDPR compliant cookie banner for react",
   "author": "Alessandro Sarzina <a.sarzina@palmabit.com>",
@@ -9,10 +9,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keepist/react-gdpr-cookie-banner.git"
+    "url": "git+https://github.com/Dan90S/react-gdpr-cookie-banner.git"
   },
   "bugs": {
-    "url": "https://github.com/keepist/react-gdpr-cookie-banner/issues"
+    "url": "https://github.com/Dan90S/react-gdpr-cookie-banner/issues"
   },
   "homepage": "https://github.com/keepist/react-gdpr-cookie-banner#readme",
   "keywords": [
