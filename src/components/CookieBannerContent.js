@@ -8,7 +8,7 @@ export default (props = {}) => {
     className = '',
     message = 'No text',
     policyLink = '/#',
-    impressumLink = '/impressum',
+    impressumLink = '/#',
     privacyPolicyLinkText = 'Privacy Policy',
     impressumLinkText = 'Data Protection',
     necessaryOptionText = 'Necessary',
